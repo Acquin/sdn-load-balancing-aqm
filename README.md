@@ -18,10 +18,6 @@ approach to dynamic load balancing in SDN.
 - **AQM integration**: Active Queue Management (CoDel/PIE) at each 
   switch to prevent buffer bloat
 
-## Architecture
-[Include a diagram image here — even a hand-drawn one photographed]
-
-## Results
 
 
 
